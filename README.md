@@ -1,13 +1,12 @@
 # Simple BMI Calculator Using Flask
 
-A simple Body Mass Index (BMI) Calculator built using Flask, HTML, CSS, and Jinja2. It allows users to calculate their BMI using Metric (kg, cm) or Imperial (lbs, inches) units.
+A simple Body Mass Index (BMI) Calculator built using Flask, HTML, CSS. It allows users to calculate their BMI using Metric (kg, cm) or Imperial (lbs, inches) units.
 
 # Technologies Used 🛠
+  - Python Programming
 
   - Flask (Python web framework)
-    
-  - Jinja2 (Template engine for rendering HTML)
-    
+        
   - HTML, CSS (Frontend for UI design)
 
 # Features ✨
@@ -20,8 +19,28 @@ A simple Body Mass Index (BMI) Calculator built using Flask, HTML, CSS, and Jinj
 
 # Usage 💡
 
-  Select your unit system (Metric or Imperial).
+  # Select your unit system (Metric or Imperial).
+
   
-  Enter your weight and height.
+  ![pic](https://github.com/mona-lisa22/Simple-BMI-Calculator-Using-Flask/blob/main/Pics1.png)
   
-  Click Calculate BMI to see the result.
+  
+  
+  # Enter your weight and height.
+  
+
+   ![pic2](https://github.com/mona-lisa22/Simple-BMI-Calculator-Using-Flask/blob/main/Pics2.png)
+   
+
+  
+  # Click Calculate BMI to see the result.
+  
+
+   ![pic3](https://github.com/mona-lisa22/Simple-BMI-Calculator-Using-Flask/blob/main/Pics3.png)
+
+
+  
+  
+ 
+  
+  
